@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/group task.iml" filepath="$PROJECT_DIR$/group task.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/git-practice.iml" filepath="$PROJECT_DIR$/.idea/git-practice.iml" />
+>>>>>>> fd341e44022ec036ae99b079ef35fcbad3e3b8f6
     </modules>
   </component>
 </project>
